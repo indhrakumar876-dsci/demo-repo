@@ -21,3 +21,5 @@ else:
         print(s2,"is max")
     else:
         print(s3,"is max")
+        
+print("Thank you!")
