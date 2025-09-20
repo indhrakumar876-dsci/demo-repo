@@ -10,9 +10,14 @@ if (s1>s2):
         print(s1,"is max")
     else:
         print(s3,"is max")
-else:
+elif:
     if(s2>s3):
         print(s2,"is max")
     else:
         print(s3,"is max")
      
+else:
+    if(s2>s3):
+        print(s2,"is max")
+    else:
+        print(s3,"is max")
